@@ -1,1 +1,1 @@
-# Praticando o uso do JUnit para testes automatizados e TDD
+# Praticando o uso do JUnit para testes unitários automatizados e TDD
